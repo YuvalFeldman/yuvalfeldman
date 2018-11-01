@@ -1,0 +1,15 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+/* You can add global styles to this file, and also import other style files */
+
+body{
+  overflow-x: hidden;
+}
+
+.sigRow{
+  margin: 0 0 30em 0;
+}
+.aboutRow{
+  margin: 0;
+  background: black;
+  width: 100%;
+}
